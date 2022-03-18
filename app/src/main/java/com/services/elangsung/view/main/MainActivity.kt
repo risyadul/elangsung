@@ -1,7 +1,8 @@
-package com.services.elangsung
+package com.services.elangsung.view.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.services.elangsung.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
